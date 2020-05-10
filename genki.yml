@@ -1,0 +1,283 @@
+01:
+  grammar:
+    か:
+      meaning: question particle
+      particle: true
+    です:
+      meaning: to be/is
+      particle: false
+    nounのnoun:
+      meaning: indicates posession
+      particle: true
+    は:
+      meaning: indicates sentence topic
+      particle: true
+  vocab:
+    あの:
+      kanji: false
+    いま:
+      kanji: 今
+    えいご:
+      kanji: 英語
+    ええ:
+      kanji: false
+    がくせい:
+      kanji: 学生
+    〜ご:
+      kanji: 〜語
+    こうこう:
+      kanji: 高校
+    ごご:
+      kanji: 午後
+    ごぜん:
+      kanji: 午前
+    〜さい:
+      kanji: 〜歳
+    〜さん:
+      kanji: false
+    〜じ:
+      kanji: 〜時
+    〜じん:
+      kanji: 〜人
+    せんこう:
+      kanji: 先行
+    せんせい:
+      kanji: 先生
+    せんもん:
+      kanji: 専門
+    そうです:
+      kanji: false
+    そうですか:
+      kanji: false
+    だいがく:
+      kanji: 大学
+    でんわ:
+      kanji: 電話
+    ともだち:
+      kanji: 友達
+    なまえ:
+      kanji: 名前
+    なん／なに:
+      kanji: 何
+    にほん:
+      kanji: 日本
+    〜ねんせい:
+      kanji: 〜年生
+    はい:
+      kanji: false
+    はん:
+      kanji: 半
+    ばんごう:
+      kanji: 番号
+    りゅうがくせい:
+      kanji: 留学生
+    わたし:
+      kanji: 私
+    アメリカ:
+      kanji: false
+    イギリス:
+      kanji: false
+    オーストラリア:
+      kanji: false
+    かんこく:
+      kanji: 韓国
+    スウェーデン:
+      kanji: false
+    ちゅうごく:
+      kanji: 中国
+    かがく:
+      kanji: 科学
+    アジアけんきゅう:
+      kanji: アジア研究
+    こくさいかんけい:
+      kanji: 国際関係
+    コンピューター:
+      kanji: false
+    じんるいがく:
+      kanji: 人類学
+    せいじ:
+      kanji: 政治
+    ビジネス:
+      kanji: false
+    ぶんがく:
+      kanji: 文学
+    れきし:
+      kanji: 歴史
+    しごと:
+      kanji: 仕事
+    いしゃ:
+      kanji: 医者
+    かいしゃいん:
+      kanji: 会社員
+    こうこうせい:
+      kanji: 高校生
+    しゅふ:
+      kanji: 主婦
+    だいがくいんせい:
+      kanji: 大学院生
+    だいがくせい:
+      kanji: 大学生
+    べんごし:
+      kanji: 弁護士
+    おかあさん:
+      kanji: お母さん
+    おとうさん:
+      kanji: お父さん
+    おねえさん:
+      kanji: お姉さん
+    おにいさん:
+      kanji: お兄さん
+    いもうと:
+      kanji: 妹
+    おとうと:
+      kanji: 弟
+02:
+  grammar:
+    これ:
+      meaning: this (close to speaker)
+      particle: false
+    それ:
+      meaning: that (close to listener)
+      particle: false
+    あれ:
+      meaning: that (distant from both speaker and listener)
+      particle: false
+    どれ:
+      meaning: that (unknown location to both speaker and listener)
+      particle: false
+    このnoun:
+      meaning: this (noun item near speaker)
+      particle: false
+    そのnoun:
+      meaning: that (noun item near listener)
+      particle: false
+    あのnoun:
+      meaning: that (noun item away from both speaker and listener)
+      particle: false
+    どのnoun:
+      meaning: where (noun item unknwon to speaker)
+      particle: false
+    ここ:
+      meaning: this (place near speaker)
+      particle: false
+    そこ:
+      meaning: that (place near listener)
+      particle: false
+    あそこ:
+      meaning: that (place away from both speaker and listener)
+      particle: false
+    どこ:
+      meaning: where (place unknwon to speaker)
+      particle: false
+    だれのnoun:
+      meaning: whose does an item belong to?
+      particle: false
+    nounも:
+      meaning: this item is also
+      particle: false
+    nounじゃあないです:
+      meaning: negate X は Y where Y is a noun
+      particle: false
+    ね:
+      meaning: added to end of statement when seeking confirmation
+      particle: true
+    よ:
+      meaning: to assure the listener of what was said
+      particle: true
+  vocab:
+    これ:
+      kanji: false
+    それ:
+      kanji: false
+    あれ:
+      kanji: false
+    どれ:
+      kanji: false
+    この:
+      kanji: false
+    その:
+      kanji: false
+    あの:
+      kanji: false
+    どの:
+      kanji: false
+    あそこ:
+      kanji: false
+    どこ:
+      kanji: false
+    だれ:
+      kanji: false
+    おいしい:
+      kanji: false
+    さかな:
+      kanji: 魚
+    とんかつ:
+      kanji: false
+    にく:
+      kanji: 肉
+    メニュー:
+      kanji: false
+    やさい:
+      kanji: 野菜
+    えんぴつ:
+      kanji: 鉛筆
+    かさ:
+      kanji: 傘
+    かばん:
+      kanji: false
+    くつ:
+      kanji: 靴
+    さいふ:
+      kanji: 財布
+    ジーンズ:
+      kanji: false
+    じしょ:
+      kanji: 辞書
+    じてんしゃ:
+      kanji: 自転車
+    しんぶん:
+      kanji: 新聞
+    テープ:
+      kanji: false
+    とけい:
+      kanji: 時計
+    トレーナー:
+      kanji: false
+    ノート:
+      kanji: false
+    ペン:
+      kanji: false
+    ぼうし:
+      kanji: 帽子
+    ほん:
+      kanji: 本
+    おてあらい:
+      kanji: お手洗い
+    きっさてん:
+      kanji: 喫茶店
+    ぎんこう:
+      kanji: 銀行
+    としょかん:
+      kanji: 図書館
+    ゆうびんきょく:
+      kanji: 郵便局
+    けいざい:
+      kanji: 経済
+    いくら:
+      kanji: false
+    〜えん:
+      kanji: 〜円
+    たかい:
+      kanji: 高い
+    いらっしゃいませ:
+      kanji: false
+    （〜を）おねがいします:
+      kanji: false
+    （〜を）ください:
+      kanji: false
+    じゃあ:
+      kanji: false
+    （〜を）どうぞ:
+      kanji: false
+    どうも:
+      kanji: false
