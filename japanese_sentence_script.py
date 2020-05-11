@@ -10,7 +10,7 @@ parser.add_argument("--max_grammar", help="The maximum number of grammar for one
 parser.add_argument("--min_vocab", help="The minimum number of vocabulary for one sentence (Default: 2)", default=2, required=False)
 parser.add_argument("--max_vocab", help="The maximum number of vocabulary for one sentence (Default: 4)", default=4, required=False)
 parser.add_argument("--max_sentences", help="The maximum number of sentence requests to generate (Default: 5)", default=5, required=False)
-parser.add_argument("--max_chapter", help="The maximum Genki chapter to load (Default: 12)", default=2, required=False)
+parser.add_argument("--max_chapter", help="The maximum Genki chapter to load (Default: 12)", default=3, required=False)
 parser.add_argument("--chapter_focus", help="Focus on specific chapter before pulling from others until maximum is met (Default: None)", default=None, required=False)
 parser.add_argument("--never_duplicate", help="Do not display Kanji (Default: True)", default=True, required=False)
 parser.add_argument("--kana_only", help="Do not display Kanji (Default: False)", default=False, required=False)
@@ -113,7 +113,7 @@ def print_sentences(sentence_requirements, grammar_map, vocab_map):
 
 if __name__ == "__main__":
     # Load Data
-    with open('genki.yml', 'r') as file:
+    with open('genki.yml', 'r', encoding='utf-8') as file:
         genki = yaml.safe_load(file)
 
     # Check that Args are proper

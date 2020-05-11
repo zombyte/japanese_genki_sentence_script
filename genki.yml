@@ -281,3 +281,276 @@
       kanji: false
     どうも:
       kanji: false
+03:
+  grammar:
+    う-Verbs:
+      meaning: godan verbs
+      particle: false
+    る-Verbs:
+      meaning: ichidon verbs
+      particle: false
+    する:
+      meaning: to do
+      particle: false
+    を:
+      meaning: particle that marks the object of action
+      particle: true
+    で:
+      meaning: at, in
+      particle: true
+    に:
+      meaning: exists
+      particle: true
+    へ:
+      meaning: to, towards
+      particle: true
+    ませんか:
+      meaning: won't you ... with me?
+      particle: false
+    は:
+      meaning: denotes sentence topic
+      particle: true
+    ぜんぜん:
+      meaning: (not) at all
+      particle: false
+    あまり～ない:
+      meaning: not very, not much
+      particle: false
+    ごろ:
+      meaning: around
+      particle: false
+  vocab:
+    えいが:
+      meaning: movie
+      kanji: 映画
+    おんがく:
+      meaning: music
+      kanji: 音楽
+    ざっし:
+      meaning: magazine
+      kanji: 雑誌
+    スポーツ:
+      meaning: sports
+      kanji: false
+    デート:
+      meaning: date (romantic, not calendar
+      kanji: false
+    テニス:
+      meaning: tennis
+      kanji: false
+    テレビ:
+      meaning: television
+      kanji: false
+    ビデオ:
+      meaning: VCR
+      kanji: false
+    あさごはん:
+      meaning: breakfast
+      kanji: false
+    おさけ:
+      meaning: sake; alcohol
+      kanji: false
+    おちゃ:
+      meaning: green tea
+      kanji: false
+    コーヒー:
+      meaning: coffee
+      kanji: false
+    ばんごはん:
+      meaning: dinner
+      kanji: 晩御飯
+    ハンバーガー:
+      meaning: hamburger
+      kanji: false
+    ひるごはん:
+      meaning: lunch
+      kanji: 昼ご飯
+    みず:
+      meaning: water
+      kanji: 水
+    いえ:
+      meaning: home; house
+      kanji: 家
+    うち:
+      meaning: home; house
+      kanji: 家
+    がっこう:
+      meaning: school
+      kanji: 学校
+    あさ:
+      meaning: morning
+      kanji: 朝
+    あした:
+      meaning: tomorrow
+      kanji: 明日
+    いつ:
+      meaning: when
+      kanji: false
+    きょう:
+      meaning: today
+      kanji: 今日
+    〜ごろ:
+      meaning: at about
+      kanji: false
+    こんばん:
+      meaning: tonight
+      kanji: 今晩
+    しゅうまつ:
+      meaning: weekend
+      kanji: 週末
+    どようび:
+      meaning: saturday
+      kanji: 同曜日
+    にちようび:
+      meaning: sunday
+      kanji: 日曜日
+    まいにち:
+      meaning: every day
+      kanji: 毎日
+    まいばん:
+      meaning: every night
+      kanji: 毎晩
+    いく:
+      meaning: to go
+      kanji: 行く
+    かえる:
+      meaning: to go back; to return
+      kanji: 帰る
+    きく:
+      meaning: to listen; to hear
+      kanji: 聞く
+    のむ:
+      meaning: to drink
+      kanji: 飲む
+    はなす:
+      meaning: to speak; to talk
+      kanji: 話す
+    よむ:
+      meaning: to read
+      kanji: 読む
+    おきる:
+      meaning: to get up
+      kanji: 起きる
+    たべる:
+      meaning: to eat
+      kanji: 食べる
+    ねる:
+      meaning: to sleep; to go to sleep
+      kanji: 寝る
+    みる:
+      meaning: to see; to look at; to watch
+      kanji: 見る
+    くる:
+      meaning: to come
+      kanji: 来る
+    する:
+      meaning: to do
+      kanji: false
+    べんきょうする:
+      meaning: to study
+      kanji: 勉強する
+    いい:
+      meaning: good
+      kanji: false
+    はやい:
+      meaning: early
+      kanji: 早い
+    あまり+ negative:
+      meaning: not much
+      kanji: false
+    ぜんぜん + negative:
+      meaning: not at all
+      kanji: 全然
+    たいてい:
+      meaning: usually
+      kanji: 大抵
+    ちょっと:
+      meaning: a little
+      kanji: false
+    ときどき:
+      meaning: sometimes
+      kanji: 時々
+    よく:
+      meaning: often; much
+      kanji: false
+    そうですね:
+      meaning: that's right; let me see
+      kanji: false
+    でも:
+      meaning: but
+      kanji: false
+    どうですか:
+      meaning: how about...?; how is...?
+      kanji:  false
+#04:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#05:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#06:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#07:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#08:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#09:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#10:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#11:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
+#12:
+#  grammar:
+#    :
+#      meaning:
+#      particle:
+#  vocab:
+#    :
+#      kanji:
